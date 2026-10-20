@@ -1,0 +1,9 @@
+*.csv
+dados/
+*.xlsx
+*.parquet
+*.pkl
+__pycache__/
+.venv/
+.env
+hierarquias/data_hierarquia.json
